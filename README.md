@@ -2,6 +2,8 @@
 
 我喜欢弄清一件东西到底怎么运作，也偶尔会自己做一个。
 
+*Curious about how things work — and occasionally building one.*
+
 机器人、嵌入式、AI 课程小实验、游戏原型、计算理论，或者下一个突然让我好奇的东西。
 
 这里不是某一个方向的作品集，更像是一些我好奇到愿意真的去探索、去做出来的东西。
