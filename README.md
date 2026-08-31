@@ -1,30 +1,31 @@
-# 2003SINGER
+# Hi, I'm 2003SINGER.
 
-电子科技大学本科生，当前在计算机系统、AI 交叉和工程实践之间建立自己的技术路径。
+I like figuring out how things work — and occasionally building one myself.
 
-这里主要记录课程项目、机器人与嵌入式实践，以及在学习过程中逐步形成的实验和协作方法。它不是完整简历：每个仓库的 README 与实际代码、材料才是对应项目的证据边界。
+Robots, embedded systems, AI experiments, game prototypes, computational theory,
+or whatever happens to catch my attention next.
 
-## 正在关注
+This GitHub is less a portfolio of one field, and more a record of things
+I got curious enough to explore.
 
-- 计算机系统、嵌入式与控制实践
-- AI、Agent 与人机协作工作流
-- 算法、计算理论与可复现实验习惯
+## Things I've wandered into
 
-## 项目入口
+`embedded systems` · `robotics` · `control` · `AI` · `games` · `computation`
 
-| 项目 | 简介 |
-| --- | --- |
-| [RobotCon 夏令营 2026](https://github.com/2003SINGER/robotcon-summer-camp-2026) | 组队机器人项目：规则、机械、电控与现场调试记录。 |
-| [STM32 教学车](https://github.com/2003SINGER/stm32-teaching-car) | 两轮自平衡与四轮 SLAM 路点赛课程工程。 |
-| [人工智能课程探索](https://github.com/2003SINGER/ai-course-explorations) | 围绕课程作业进行的实验、反思和工具探索；不作为研究成果展示。 |
-| [C/C++ 算法学习档案](https://github.com/2003SINGER/c-cpp-algorithm-learning-archive) | 为大学 ACM 课程重新找回竞赛手感的练习记录。 |
-| [计算理论探索](https://github.com/2003SINGER/computational-theory-explorations) | 计算复杂性理论课程写作与相关材料。 |
+## A few things I've made
 
-## 关于这个主页
+- [first-gal-public](https://github.com/2003SINGER/first-gal-public) — A campus visual-novel prototype built with Godot, where narrative design, interaction systems, and software architecture gradually meet.
+- [stm32-teaching-car](https://github.com/2003SINGER/stm32-teaching-car) — Two-wheel balancing and four-wheel waypoint racing on STM32, with control loops, FreeRTOS, and real hardware iteration.
+- [mengshengbei-d-turntable](https://github.com/2003SINGER/mengshengbei-d-turntable) — An STM32 motor-control project that started as a competition problem and ended with a precisely controlled “always-win” turntable.
+- [ai-course-explorations](https://github.com/2003SINGER/ai-course-explorations) — Small explorations around representation, clustering, GNNs, spurious correlation, and other questions from an introductory AI course.
+- [DesktopPet](https://github.com/2003SINGER/DesktopPet) — A tiny STM32 + FreeRTOS desktop pet, built mostly because making an embedded system have a mood sounded fun.
+- [computational-theory-explorations](https://github.com/2003SINGER/computational-theory-explorations) — Notes and coursework from occasionally wandering into reductions, complexity, and the theoretical side of computation.
 
-项目仍在学习和迭代中。若想了解某项工作的范围、验证程度和可复现条件，请以该仓库的说明、源码与保留的实验记录为准。
+## How I tend to work
 
-## 联系
+Get curious → take it apart → build a rough version → make it actually work →
+come back later and notice everything I would do differently.
 
-- hxhhduan@gmail.com
-- 2025040908022@std.uestc.edu.cn
+Still exploring. The next repository may have very little to do with the last one.
+
+If you'd like to say hi: [hxhhduan@gmail.com](mailto:hxhhduan@gmail.com) · [2025040908022@std.uestc.edu.cn](mailto:2025040908022@std.uestc.edu.cn)
