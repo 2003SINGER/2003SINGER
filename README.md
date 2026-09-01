@@ -14,9 +14,9 @@
 
 ## 做过的一些东西
 
-- [first-gal-public](https://github.com/2003SINGER/first-gal-public) — 用 Godot 做的校园 Galgame 原型；叙事设计、交互系统和软件结构在这里慢慢碰到一起。
-- [stm32-teaching-car](https://github.com/2003SINGER/stm32-teaching-car) — STM32 上的两轮自平衡与四轮路点赛，从控制环到实物调试。
-- [mengshengbei-d-turntable](https://github.com/2003SINGER/mengshengbei-d-turntable) — 从一道竞赛控制题开始，最后变成了一个“包赢”转盘。
+- [first-gal-public](https://github.com/2003SINGER/first-gal-public) — 从一段初中时就留在脑海里的故事开始；先做成可玩的灰盒，再慢慢把它打磨成想讲的样子。
+- [stm32-teaching-car](https://github.com/2003SINGER/stm32-teaching-car) — STM32 上的两轮自平衡与四轮路点赛；一次通宵调参后，终于让实物跑得更稳、更快。
+- [mengshengbei-d-turntable](https://github.com/2003SINGER/mengshengbei-d-turntable) — 用电子科协的基础套件、许多层 `while` 和反复烧录调出来的“包赢”转盘。
 - [ai-course-explorations](https://github.com/2003SINGER/ai-course-explorations) — 人工智能课程里的小型探索：表征、聚类、GNN、假相关，以及一些没按预期发展的实验。
 - [DesktopPet](https://github.com/2003SINGER/DesktopPet) — 一个 STM32 + FreeRTOS 桌宠，主要因为“嵌入式系统有情绪”这件事听起来很好玩。
 - [computational-theory-explorations](https://github.com/2003SINGER/computational-theory-explorations) — 偶尔钻进规约、复杂性和计算理论里时留下的课程材料与笔记。
