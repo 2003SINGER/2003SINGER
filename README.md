@@ -17,6 +17,7 @@
 - [mengshengbei-d-turntable](https://github.com/2003SINGER/mengshengbei-d-turntable) — 用电子科协的基础套件、许多层 `while` 和反复烧录调出来的“包赢”转盘。
 - [DesktopPet](https://github.com/2003SINGER/DesktopPet) — 一个 STM32 + FreeRTOS 桌宠，主要因为“嵌入式系统有情绪”这件事听起来很好玩。
 - [robocon-summer-camp-2026](https://github.com/2003SINGER/robocon-summer-camp-2026) — RobotCon 夏令营期间攒下的规则梳理、机械 CAD 与现场状态记录；后来也成了我正式进队的地方。
+- [ece-first-year-study-notes](https://github.com/2003SINGER/ece-first-year-study-notes) — ECE 首届的课程笔记整理（脱敏后公开），主要是一年级下学期的部分。
 
 ## 我通常怎么做
 
